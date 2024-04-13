@@ -10,9 +10,9 @@
 
 :root {
   --softx-version: "1.2.1";
-  --hue: 0deg;
-  --saturation: 0%;
-  --lightness: 10%;
+  --hue: 297deg;
+  --saturation: 30%;
+  --lightness: 50%;
   --transition: 0.15s ease;
   --chat-glow-intensity: var(--glow-intensity);
   --channel-glow-intensity: var(--glow-intensity);
