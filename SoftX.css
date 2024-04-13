@@ -10,9 +10,9 @@
 
 :root {
   --softx-version: "1.2.1";
-  --hue: 297deg;
-  --saturation: 30%;
-  --lightness: 50%;
+  --hue: 0deg;
+  --saturation: 0%;
+  --lightness: 10%;
   --transition: 0.15s ease;
   --chat-glow-intensity: var(--glow-intensity);
   --channel-glow-intensity: var(--glow-intensity);
@@ -61,7 +61,7 @@
   --text-link: rgb(var(--accent));
   --font-primary: var(--font, "Whitney");
   --font-display: var(--font, "Whitney");
-  --channels-default: #aaa;
+  --channels-default: #fcccff;
   --background-modifier-hover: rgb(255 255 255 / 0.05);
   --background-modifier-active: rgb(255 255 255 / 0.08);
   --brand-experiment: rgb(var(--accent), 0.35);
