@@ -37,7 +37,7 @@
   --chat-bubble-bg-self: rgb(var(--accent), 0.15);
   --chat-bubble-padding: 10px 14px;
   --chat-bubble-display: inline-block;
-  --user-area: calc(var(--server-size) + 250px);
+  --user-area: calc(var(--server-size) + 225px);
   --toolbar-height: 100px;
   --server-spacing: 16px;
   --guild-scrollbar: none;
