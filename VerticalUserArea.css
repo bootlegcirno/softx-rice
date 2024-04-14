@@ -15,7 +15,7 @@
   flex-direction: column-reverse;
   padding: 0 0 24px;
   width: var(--guilds-width, 72px);
-  height: 120px;
+  height: auto;
   border-top: none;
 }
 #app-mount .panels__58331 > .container_debb33 > [style="flex: 0 1 auto;"] {
