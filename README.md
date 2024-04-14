@@ -8,6 +8,6 @@
 
 
 # TODO:
-- Integrate GameActivityToggle 
+- ~~Integrate GameActivityToggle~~ (should be fixed now)
 - Get the forum channels to not obstruct bg
-- Clean up README.md
+- ~~Clean up README.md~~
