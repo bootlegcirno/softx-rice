@@ -1,5 +1,13 @@
-# my rice for SoftX
+# SoftX rice made by bootlegcirno
 
-issues to fix:
-- get the servers to not show under the gamepad button
-- get the big channel list to not obstruct bg
+# Install guide
+
+- Install [BetterDiscord](https://betterdiscord.app/) or [Vencord](https://vencord.dev)
+- Download SoftX.theme.css and copy to /themes in your BetterDiscord or Vencord install
+- Go to Settings -> Themes -> Enable SoftX
+
+
+# TODO:
+- Integrate GameActivityToggle 
+- Get the forum channels to not obstruct bg
+- Clean up README.md
