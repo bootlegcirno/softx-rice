@@ -80,6 +80,10 @@ body,
   background: transparent;
 }
 
+.container_b92032 {
+  background: var(--bg-primary);
+}
+
 .bg__12180 {
   background-image: var(--background-image);
   background-color: transparent;
