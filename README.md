@@ -3,7 +3,7 @@
 # Install guide
 
 - Install [BetterDiscord](https://betterdiscord.app/) or [Vencord](https://vencord.dev)
-- Download SoftX.theme.css and copy to /themes in your BetterDiscord or Vencord install
+- Download SoftX.theme.css (for horizontal screens) or SoftXVertical.theme.css (for vertical ones) and copy to /themes in your BetterDiscord or Vencord install
 - Go to Settings -> Themes -> Enable SoftX
 
 
