@@ -22,7 +22,7 @@
   --background-image: url("https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2022/09/bocchitherock_ryoyamadatrailerscreenshot.png");	/* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-blur: 10px; 															/* Blur intensity of --background-image | Must end in px | Default: 0px */
   --accent: 250, 155, 255; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
-  --channels-width: 200px; /* Width of the channels list. | Default: 300px */
+  --channels-width: 250px; /* Width of the channels list. | Default: 300px */
   --guilds-width: 80px; /* Width of the server list. | Default: 105px */
   --members-width: 160px; /* Width of the members list. | Default: 280px */
   --server-size: 50px; /* Size of the servers inside the server list. | Default: 50px */
