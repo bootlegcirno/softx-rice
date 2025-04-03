@@ -19,7 +19,7 @@
   /*
    * SoftX variables
    */
-  --background-image: url("https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2022/09/bocchitherock_ryoyamadatrailerscreenshot.png");	/* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url("https://files.catbox.moe/40betf.png");	/* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) (it's best to use an image matching the resolution of your monitor) */
   --background-blur: 10px; 															/* Blur intensity of --background-image | Must end in px | Default: 0px */
   --accent: 250, 155, 255; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
   --channels-width: 250px; /* Width of the channels list. | Default: 300px */
