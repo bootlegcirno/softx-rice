@@ -14,7 +14,5 @@
 # TODO:
 - ~~Integrate GameActivityToggle~~ (should be fixed now)
 - Get the forum channels to not obstruct bg
-- Document everything
-- 
 
 # 
