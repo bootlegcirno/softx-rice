@@ -1,5 +1,7 @@
 # SoftX rice made by bootlegcirno
 
+# Does not work with current Discord version. Please do not open up issues about this.
+
 # Install guide
 
 - Install ~~[BetterDiscord](https://betterdiscord.app/)~~ (please use Vencord) or [Vencord](https://vencord.dev)
@@ -13,6 +15,6 @@
 - ~~Integrate GameActivityToggle~~ (should be fixed now)
 - Get the forum channels to not obstruct bg
 - Document everything
-- ~~Clean up README.md~~
+- 
 
 # 
